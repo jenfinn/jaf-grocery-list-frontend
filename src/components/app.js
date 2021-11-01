@@ -1,5 +1,5 @@
 import React from "react";
-import TodoItem from "./grocerylist";
+import FoodItem from "./grocerylist";
 
 class App extends React.Component {
   constructor() {
